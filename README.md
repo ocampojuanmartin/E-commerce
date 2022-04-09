@@ -1,5 +1,5 @@
 # E-commerce
-<img src="https://www.freeiconspng.com/uploads/exercise-sport-icon--7.png" alt="Alt text" title="Optional title">
+<img src="https://www.freeiconspng.com/uploads/exercise-sport-icon--7.png" height=100px width= 100px alt="Alt text" title="Optional title">
 Desarrollo de un E-commerce para vender indumentaria y accesorios deportivos, incluye una pasarela de pago, sistema de administracion de usuarios y productos y trabaja con Node, Mongo, React, Redux, Material-UI y deploy con Firebase y Heroku. Mi participacion en este proyecto grupal fue en el armado del Back-end.
 En la pagina se pueden:
 - listar productos con sus imágenes, precio y reseñas.
