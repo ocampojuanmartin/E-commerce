@@ -20,6 +20,6 @@ En la pagina se pueden:
 🏉 inicio de sesión por distintos medios con confirmación por email y posibilidad de resetear la contraseña de un usuario por mail.
 
 
-
+-
  🔗 Link:
 https://sports-market.vercel.app
